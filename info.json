@@ -1,0 +1,22 @@
+{
+    "name": "Kofa",
+    "website": "http://kofatoken.com",
+    "description": "KOFA completely works on decentralized we aim to reward the holders with multiple sources. Holders can receive BNB rewards on every transaction made on Decentralised Exchanges.",
+    "symbol": "KOFA",
+    "type": "token",
+    "decimals": 18,
+    "status": "active",
+    "tags": [
+        "staking-native"
+    ],
+    "links": [
+        {
+            "name": "github",
+            "url": "https://github.com/Kofa"
+        },
+        {
+            "name": "twitter",
+            "url": "https://t.me/KofaTokenOfficial"
+        },
+    ]
+}
